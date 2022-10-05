@@ -24,6 +24,10 @@
   font-family: "微軟正黑體";
 }
 
+html{
+  height: 100%;
+}
+
 body {
   
   background-image:url("./夜市.jpg" );
